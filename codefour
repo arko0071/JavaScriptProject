@@ -1,0 +1,28 @@
+// "use strict"; // treate all js code as newer version
+
+// alert (3 + 3) // this syntex is used in browser mode only not in nodejs
+
+// console.log(3+
+//     3) // code readability should be proper from coders end to understand the code proper
+
+// let name = "sap";
+// let age = 24;
+// let isloggedin = false;
+
+
+// DATATYPES :-
+
+// number => 2^53
+//bigint => // use when large numbers are used.
+// boolean => true/false
+// null => standalone value - variable which has no value -- it is an object;
+
+// undefined => a variable which is declared but no value added to it --- its a type;
+
+// symbol => unique
+
+// object
+// typeof - to specify the type of variables. [console.log(typeof --)]
+
+
+
